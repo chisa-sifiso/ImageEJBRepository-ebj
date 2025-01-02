@@ -67,7 +67,8 @@ public void addImage(String name, byte[] data) {
 <h2>License</h2>
 
 <p>This project is licensed under the MIT License - see the <code>LICENSE</code> file for details.</p>
-
+<p>Developed by Sifiso Vinjwa </p>
 <h2>Contact</h2>
+
 
 <p>For any inquiries or issues, please reach out to the project maintainer at <a href="mailto:your-email@example.com">sifisovinjwa1@gmail.com</a>.</p>
